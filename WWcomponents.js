@@ -84,7 +84,7 @@ components.game = `
                 </div>
 
                 <div class="menu">
-                    <a id="instruction-link" href="#"><i class="far fa-question-circle"></i> Hướng dẫn</a>
+                    <a id="instruction-link"><i class="far fa-question-circle"></i> Hướng dẫn</a>
                 </div>
                 <div class="menu">
                     <a id="coming-soon-link-4" class="comingSoon" href="#"><i class="fas fa-hands-helping"></i> Hỗ trợ
